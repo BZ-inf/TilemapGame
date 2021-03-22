@@ -1,0 +1,219 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.0f1 (c7b5465681fb) revision 13088070'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19041.867; Version 2004; 64bit' Language: 'pl' Physical Memory: 8005 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.0f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/bozen/GIT/FilemapGame/TilemapGame
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49270
+Successfully changed project path to: C:/Users/bozen/GIT/FilemapGame/TilemapGame
+C:/Users/bozen/GIT/FilemapGame/TilemapGame
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 123.88 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.0f1 (c7b5465681fb)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/bozen/GIT/FilemapGame/TilemapGame/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 620 (ID=0x3ea0)
+    Vendor:   
+    VRAM:     4002 MB
+    Driver:   26.20.100.7323
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56048
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.006057 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 103.56 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  5.076 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003291 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 87.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.374 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.64 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1807 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.6 MB.
+System memory in use after: 84.5 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2249.
+Total: 4.564400 ms (FindLiveObjects: 0.285900 ms CreateObjectMapping: 0.129000 ms MarkObjects: 3.845000 ms  DeleteObjects: 0.302000 ms)
+
+========================================================================
+Received Import Request.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '779d5949113fa91bb85f64f090860d93') in 0.081981 seconds
+  Import took 0.088381 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 177.339747 seconds.
+  path: Assets/sunnyland woods
+  artifactKey: Guid(79a3d52ab89b2754391ac238f50eae06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sunnyland woods using Guid(79a3d52ab89b2754391ac238f50eae06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66e8cd79abe43afb639d1e1a4115eb24') in 0.011947 seconds
+  Import took 0.016814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.288257 seconds.
+  path: Assets/sunnyland woods/Player
+  artifactKey: Guid(f18527ef9e5434444bfdf5fa134bdf38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sunnyland woods/Player using Guid(f18527ef9e5434444bfdf5fa134bdf38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ca9dfde2ac1efe23f5020df482bfa30') in 0.014561 seconds
+  Import took 0.020696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.142535 seconds.
+  path: Assets/sunnyland woods/Sprites
+  artifactKey: Guid(573f41dd9a7664a9887e062e765be724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sunnyland woods/Sprites using Guid(573f41dd9a7664a9887e062e765be724) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f46bbff0c2611fa22420722dc0b7f1f9') in 0.017153 seconds
+  Import took 0.023878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.884518 seconds.
+  path: Assets/sunnyland woods/Sprites/player
+  artifactKey: Guid(525914c7f60954d42bc701acc77f1343) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sunnyland woods/Sprites/player using Guid(525914c7f60954d42bc701acc77f1343) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b473b5c6283d976e1ba3c2ecd8f839b7') in 0.019347 seconds
+  Import took 0.024893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.146001 seconds.
+  path: Assets/sunnyland woods/Sprites/player/idle
+  artifactKey: Guid(a8d35553274c649a0ad0a4642aa3a913) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sunnyland woods/Sprites/player/idle using Guid(a8d35553274c649a0ad0a4642aa3a913) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bcac8b86ad0eb8ed7af736e25f882f3') in 0.014371 seconds
+  Import took 0.020464 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.050387 seconds.
+  path: Assets/sunnyland woods/Sprites/player/idle/player-idle-1.png
+  artifactKey: Guid(f00b4747e194d43ebba76abc9ea17f57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sunnyland woods/Sprites/player/idle/player-idle-1.png using Guid(f00b4747e194d43ebba76abc9ea17f57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e6377a1f50a1fc090ad9841ddbb1e69') in 0.177193 seconds
+  Import took 0.183679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000485 seconds.
+  path: Assets/sunnyland woods/Sprites/player/idle/player-idle-7.png
+  artifactKey: Guid(ffa450555b05e40259e14f45b3d7c427) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sunnyland woods/Sprites/player/idle/player-idle-7.png using Guid(ffa450555b05e40259e14f45b3d7c427) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8078bb5ed61c6aedf679a7f92ad56f60') in 0.024030 seconds
+  Import took 0.029895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/sunnyland woods/Sprites/player/idle/player-idle-4.png
+  artifactKey: Guid(efab8307cd05f446d995e89aa5a339af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sunnyland woods/Sprites/player/idle/player-idle-4.png using Guid(efab8307cd05f446d995e89aa5a339af) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67f72cf60e3cb707338a948d3b5e42fe') in 0.022821 seconds
+  Import took 0.027045 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/sunnyland woods/Sprites/player/idle/player-idle-5.png
+  artifactKey: Guid(cdb9e5532b5eb47daaf302a4902a0498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sunnyland woods/Sprites/player/idle/player-idle-5.png using Guid(cdb9e5532b5eb47daaf302a4902a0498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fd91eb7bf72363f25d60b89cbbca098') in 0.021741 seconds
+  Import took 0.026657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000442 seconds.
+  path: Assets/sunnyland woods/Sprites/player/idle/player-idle-8.png
+  artifactKey: Guid(aba71567efd404adf98458d20512bbcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sunnyland woods/Sprites/player/idle/player-idle-8.png using Guid(aba71567efd404adf98458d20512bbcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3237658e58f6622230c81ea368a30f0b') in 0.027766 seconds
+  Import took 0.032617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/sunnyland woods/Sprites/player/idle/player-idle-6.png
+  artifactKey: Guid(89ac76dbee8aa4e1bb30692ddce4a364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sunnyland woods/Sprites/player/idle/player-idle-6.png using Guid(89ac76dbee8aa4e1bb30692ddce4a364) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55006bcb5cee07acd0185edd4761210b') in 0.027094 seconds
+  Import took 0.031952 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/sunnyland woods/Sprites/player/idle/player-idle-2.png
+  artifactKey: Guid(59220b107872b420f9200542ab7d4763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sunnyland woods/Sprites/player/idle/player-idle-2.png using Guid(59220b107872b420f9200542ab7d4763) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd357b518526ae639b9c18167cbdbc8c1') in 0.024981 seconds
+  Import took 0.028157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000288 seconds.
+  path: Assets/sunnyland woods/Sprites/player/idle/player-idle-3.png
+  artifactKey: Guid(0b692f1e744ec43dd84f1b1df511112b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sunnyland woods/Sprites/player/idle/player-idle-3.png using Guid(0b692f1e744ec43dd84f1b1df511112b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e16ab4c263fe4e61196856828012c26') in 0.030325 seconds
+  Import took 0.034446 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.455243 seconds.
+  path: Assets/sunnyland woods/Sprites/player/hurt
+  artifactKey: Guid(503f04dd4f9c24f529ef5c01526a0920) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sunnyland woods/Sprites/player/hurt using Guid(503f04dd4f9c24f529ef5c01526a0920) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '976f24eee2a9ab7362e4faa9af058420') in 0.011307 seconds
+  Import took 0.016710 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.055651 seconds.
+  path: Assets/sunnyland woods/Sprites/player/hurt/player-hurt-1.png
+  artifactKey: Guid(a51d9a15e296245fe9909cf9ff78d88b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sunnyland woods/Sprites/player/hurt/player-hurt-1.png using Guid(a51d9a15e296245fe9909cf9ff78d88b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db163df5ab8cdf6728130d56e477d01d') in 0.030832 seconds
+  Import took 0.035939 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000419 seconds.
+  path: Assets/sunnyland woods/Sprites/player/hurt/player-hurt-2.png
+  artifactKey: Guid(c4f736f6af5f2441e895363e25f87131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sunnyland woods/Sprites/player/hurt/player-hurt-2.png using Guid(c4f736f6af5f2441e895363e25f87131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '915951a6ff9e74f1ad9017ad59fc7e3c') in 0.023257 seconds
+  Import took 0.027533 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001164 seconds.
+  path: Assets/sunnyland woods/Sprites/player/hurt/player-hurt-2.png
+  artifactKey: Guid(c4f736f6af5f2441e895363e25f87131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sunnyland woods/Sprites/player/hurt/player-hurt-2.png using Guid(c4f736f6af5f2441e895363e25f87131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '915951a6ff9e74f1ad9017ad59fc7e3c') in 0.012633 seconds
+  Import took 0.016309 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
