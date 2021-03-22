@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Acorn
   layers:
   - Default
   - TransparentFX
@@ -47,12 +48,12 @@ TagManager:
   - name: Mountains
     uniqueID: 2608848241
     locked: 0
-  - name: Player
-    uniqueID: 54172909
-    locked: 0
-  - name: Player2
-    uniqueID: 3028632371
-    locked: 0
   - name: Bacground
     uniqueID: 2379712709
+    locked: 0
+  - name: Acorn
+    uniqueID: 2469670749
+    locked: 0
+  - name: Player
+    uniqueID: 54172909
     locked: 0

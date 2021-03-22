@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class PlayerW : MonoBehaviour
 {
-    public float PlayerSpeed = 1;
-    public float PlayerJump = 1;
+    public float PlayerWSpeed = 1;
+    public float PlayerWJump = 1;
     private float Hdir;
     private float Vdir;
     private Rigidbody2D fx;
@@ -28,19 +28,22 @@ public class PlayerW : MonoBehaviour
 
     private void FixedUpdate()
     {
-        fx.velocity = new Vector2(Hdir * PlayerSpeed, fx.velocity.y);
+        fx.velocity = new Vector2(Hdir * PlayerWSpeed, fx.velocity.y);
         if (jump)
         {
-            fx.AddForce(Vector2.up * PlayerJump, ForceMode2D.Impulse);
+            fx.AddForce(Vector2.up * PlayerWJump, ForceMode2D.Impulse);
             jump = false;
         }
     }
 
-
+    private void OnCollisionEnter2D(Collision2D win)
+    {
+        if (win.gameObject.tag == "Acorn")
+        {
+            Destroy(win.gameObject);
+        }
+    }
 }
-
-
-
 
 
 
