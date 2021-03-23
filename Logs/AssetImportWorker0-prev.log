@@ -15,11 +15,11 @@ C:/Users/bozen/GIT/FilemapGame/TilemapGame
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-49335
+52851
 Successfully changed project path to: C:/Users/bozen/GIT/FilemapGame/TilemapGame
 C:/Users/bozen/GIT/FilemapGame/TilemapGame
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 89.86 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 37.96 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.0f1 (c7b5465681fb)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Resources/UnitySubsystems
@@ -35,109 +35,66 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56388
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56012
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.0f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.004801 seconds.
+Registered in 0.001767 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 72.27 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 38.78 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  4.027 seconds
+- Completed reload, in  3.735 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002162 seconds.
+Registered in 0.000901 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 87.68 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 38.78 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.361 seconds
+- Completed reload, in  1.049 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1807 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 84.6 MB.
-System memory in use after: 84.5 MB.
+System memory in use before: 84.7 MB.
+System memory in use after: 84.6 MB.
 
 Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2249.
-Total: 2.180000 ms (FindLiveObjects: 0.251600 ms CreateObjectMapping: 0.093400 ms MarkObjects: 1.707100 ms  DeleteObjects: 0.126700 ms)
+Total: 2.669700 ms (FindLiveObjects: 0.289300 ms CreateObjectMapping: 0.114700 ms MarkObjects: 2.078200 ms  DeleteObjects: 0.185700 ms)
 
 ========================================================================
 Received Import Request.
   path: ProjectSettings/TagManager.asset
   artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b20b7b0682ece1ab90d8d975754a1a5') in 0.043826 seconds
-  Import took 0.048985 seconds .
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1675e2f8977504c8e57f04940191b2b3') in 0.042364 seconds
+  Import took 0.048812 seconds .
 
 ========================================================================
-Received Import Request.
-  Time since last request: 172.237420 seconds.
-  path: Assets/sunnyland woods/Sprites/player/hurt/player-hurt-1.png
-  artifactKey: Guid(a51d9a15e296245fe9909cf9ff78d88b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Sprites/player/hurt/player-hurt-1.png using Guid(a51d9a15e296245fe9909cf9ff78d88b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49acb69ae9c6c7255f17b27f00dbf1a2') in 0.124970 seconds
-  Import took 0.132158 seconds .
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 49.0 MB.
+System memory in use after: 49.0 MB.
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 2249.
+Total: 2.409400 ms (FindLiveObjects: 0.215900 ms CreateObjectMapping: 0.082900 ms MarkObjects: 1.995500 ms  DeleteObjects: 0.113300 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001916 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.65 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.130 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.6 MB.
-System memory in use after: 87.6 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2259.
-Total: 3.057200 ms (FindLiveObjects: 0.204600 ms CreateObjectMapping: 0.064300 ms MarkObjects: 2.546800 ms  DeleteObjects: 0.239700 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000965 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.872 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.7 MB.
-System memory in use after: 87.7 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2263.
-Total: 2.146200 ms (FindLiveObjects: 0.176600 ms CreateObjectMapping: 0.080400 ms MarkObjects: 1.778300 ms  DeleteObjects: 0.109500 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000936 seconds.
+Registered in 0.000981 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
@@ -146,452 +103,24 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.875 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.7 MB.
-System memory in use after: 87.7 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2267.
-Total: 2.769000 ms (FindLiveObjects: 0.187300 ms CreateObjectMapping: 0.062000 ms MarkObjects: 2.418600 ms  DeleteObjects: 0.100300 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000942 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.833 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.7 MB.
-System memory in use after: 87.7 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2271.
-Total: 2.072900 ms (FindLiveObjects: 0.171600 ms CreateObjectMapping: 0.068900 ms MarkObjects: 1.721000 ms  DeleteObjects: 0.110100 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001346 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.821 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.7 MB.
-System memory in use after: 87.7 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2275.
-Total: 2.155300 ms (FindLiveObjects: 0.179000 ms CreateObjectMapping: 0.065800 ms MarkObjects: 1.797100 ms  DeleteObjects: 0.112500 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002666 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.48 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.675 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.37 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.7 MB.
-System memory in use after: 87.7 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2279.
-Total: 2.362600 ms (FindLiveObjects: 0.190200 ms CreateObjectMapping: 0.078800 ms MarkObjects: 1.962900 ms  DeleteObjects: 0.129500 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001106 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.209 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.8 MB.
-System memory in use after: 87.7 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2283.
-Total: 3.200000 ms (FindLiveObjects: 0.308900 ms CreateObjectMapping: 0.176500 ms MarkObjects: 2.442300 ms  DeleteObjects: 0.270100 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000885 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.118 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.8 MB.
-System memory in use after: 87.8 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2287.
-Total: 2.624600 ms (FindLiveObjects: 0.223900 ms CreateObjectMapping: 0.078800 ms MarkObjects: 2.217900 ms  DeleteObjects: 0.103100 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001166 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.349 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.56 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.8 MB.
-System memory in use after: 87.8 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2291.
-Total: 4.072300 ms (FindLiveObjects: 0.558600 ms CreateObjectMapping: 0.400400 ms MarkObjects: 2.926600 ms  DeleteObjects: 0.184500 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002015 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 3.62 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.192 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.8 MB.
-System memory in use after: 87.8 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2295.
-Total: 3.902100 ms (FindLiveObjects: 0.451300 ms CreateObjectMapping: 0.237600 ms MarkObjects: 2.974700 ms  DeleteObjects: 0.223000 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000919 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.68 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.036 seconds
+- Completed reload, in  1.023 seconds
 Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.8 MB.
-System memory in use after: 87.8 MB.
+System memory in use before: 84.6 MB.
+System memory in use after: 84.6 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2299.
-Total: 2.957000 ms (FindLiveObjects: 0.178000 ms CreateObjectMapping: 0.055000 ms MarkObjects: 2.584200 ms  DeleteObjects: 0.138700 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 8947.735855 seconds.
-  path: Assets/sunnyland woods/Player/PlayerW.cs
-  artifactKey: Guid(380acd8dd23571d41881845379532f71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Player/PlayerW.cs using Guid(380acd8dd23571d41881845379532f71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01d2888acd4e0dea79dae95e87d89cd1') in 0.037086 seconds
-  Import took 0.044212 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 174.141044 seconds.
-  path: Assets/sunnyland woods/Sprites/player/jump
-  artifactKey: Guid(4eb04cfb66111481dac3453bc511ae4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Sprites/player/jump using Guid(4eb04cfb66111481dac3453bc511ae4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fe3609080604c874112521e31fea7d0') in 0.016878 seconds
-  Import took 0.020405 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.065974 seconds.
-  path: Assets/sunnyland woods/Sprites/player/jump/player-jump-1.png
-  artifactKey: Guid(27fb3822c653a4aea8fc069335df61be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Sprites/player/jump/player-jump-1.png using Guid(27fb3822c653a4aea8fc069335df61be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fe82d40d7a39e5196a281b1b1b34116') in 0.075811 seconds
-  Import took 0.079976 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000165 seconds.
-  path: Assets/sunnyland woods/Sprites/player/jump/player-jump-2.png
-  artifactKey: Guid(41d2b6d40e4394caf9aec45dababb509) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Sprites/player/jump/player-jump-2.png using Guid(41d2b6d40e4394caf9aec45dababb509) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce71bf27679229cb35ecbd2ebc7b0f92') in 0.033505 seconds
-  Import took 0.038178 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000201 seconds.
-  path: Assets/sunnyland woods/Sprites/player/jump/player-jump-3.png
-  artifactKey: Guid(d4926070b9c1e4d09b23d1fda0dde3dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Sprites/player/jump/player-jump-3.png using Guid(d4926070b9c1e4d09b23d1fda0dde3dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83b9601aeffcba3e922b808eb80346b2') in 0.030485 seconds
-  Import took 0.034108 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000246 seconds.
-  path: Assets/sunnyland woods/Sprites/player/jump/player-jump-4.png
-  artifactKey: Guid(95347c40511c54ee5b2af69403a66f4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Sprites/player/jump/player-jump-4.png using Guid(95347c40511c54ee5b2af69403a66f4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86a9676bce485d46d656acfc48c5689a') in 0.027969 seconds
-  Import took 0.032411 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.003524 seconds.
-  path: Assets/sunnyland woods/Sprites/player/jump/player-jump-4.png
-  artifactKey: Guid(95347c40511c54ee5b2af69403a66f4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Sprites/player/jump/player-jump-4.png using Guid(95347c40511c54ee5b2af69403a66f4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86a9676bce485d46d656acfc48c5689a') in 0.011938 seconds
-  Import took 0.016223 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.443369 seconds.
-  path: Assets/sunnyland woods/Sprites/player/run
-  artifactKey: Guid(7b9d6b5d2bf28437a8cfcf9e62d16cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Sprites/player/run using Guid(7b9d6b5d2bf28437a8cfcf9e62d16cbe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a05ed5bde643a46290c82b938365ab8') in 0.009566 seconds
-  Import took 0.013749 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.071241 seconds.
-  path: Assets/sunnyland woods/Sprites/player/run/player-run-1.png
-  artifactKey: Guid(060cfe22d7728413eadda1be34972689) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Sprites/player/run/player-run-1.png using Guid(060cfe22d7728413eadda1be34972689) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5a3e46ad1f017337fd11da53e091f0b') in 0.030964 seconds
-  Import took 0.035070 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000181 seconds.
-  path: Assets/sunnyland woods/Sprites/player/run/player-run-4.png
-  artifactKey: Guid(299935e8b64b9481bb595f13dc103c5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Sprites/player/run/player-run-4.png using Guid(299935e8b64b9481bb595f13dc103c5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90f2dc2d7d9bad663baf2959adadac09') in 0.030826 seconds
-  Import took 0.034755 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000172 seconds.
-  path: Assets/sunnyland woods/Sprites/player/run/player-run-2.png
-  artifactKey: Guid(c780cfdf3a6024857b89bf8c2ddf5a1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Sprites/player/run/player-run-2.png using Guid(c780cfdf3a6024857b89bf8c2ddf5a1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5eb612927ada29f4429e399f000c98c') in 0.041992 seconds
-  Import took 0.045760 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000177 seconds.
-  path: Assets/sunnyland woods/Sprites/player/run/player-run-6.png
-  artifactKey: Guid(c7a57623349a146bfbb36296b137ee86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Sprites/player/run/player-run-6.png using Guid(c7a57623349a146bfbb36296b137ee86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65cd21c5614e84fc4f09ed524ad0dd35') in 0.028130 seconds
-  Import took 0.032138 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000194 seconds.
-  path: Assets/sunnyland woods/Sprites/player/run/player-run-5.png
-  artifactKey: Guid(b8d71f129be5e4e8ca238c4e63f7585e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Sprites/player/run/player-run-5.png using Guid(b8d71f129be5e4e8ca238c4e63f7585e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59caa193ec3ea9dfb75a462c1898391e') in 0.035581 seconds
-  Import took 0.039573 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000221 seconds.
-  path: Assets/sunnyland woods/Sprites/player/run/player-run-3.png
-  artifactKey: Guid(5a71eb156d2b840af93f893c293d01df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Sprites/player/run/player-run-3.png using Guid(5a71eb156d2b840af93f893c293d01df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '101eb09bcee68846216b434b7e52eaa5') in 0.037591 seconds
-  Import took 0.041579 seconds .
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2253.
+Total: 2.243200 ms (FindLiveObjects: 0.205600 ms CreateObjectMapping: 0.094600 ms MarkObjects: 1.830800 ms  DeleteObjects: 0.111100 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001028 seconds.
+Registered in 0.001216 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.52 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.290 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.8 MB.
-System memory in use after: 87.8 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2304.
-Total: 3.859200 ms (FindLiveObjects: 0.329700 ms CreateObjectMapping: 0.145900 ms MarkObjects: 3.264900 ms  DeleteObjects: 0.117500 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 39.201968 seconds.
-  path: Assets/sunnyland woods/Sprites/player/run/player-run-6.png
-  artifactKey: Guid(c7a57623349a146bfbb36296b137ee86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Sprites/player/run/player-run-6.png using Guid(c7a57623349a146bfbb36296b137ee86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdb6554c4c575a477c482b953636b543') in 0.052347 seconds
-  Import took 0.063606 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.424854 seconds.
-  path: Assets/sunnyland woods/Sprites/player/run/player-run-6.png
-  artifactKey: Guid(c7a57623349a146bfbb36296b137ee86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Sprites/player/run/player-run-6.png using Guid(c7a57623349a146bfbb36296b137ee86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74b840c529baf9cc262f4bf1c322af50') in 0.013581 seconds
-  Import took 0.017282 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.429493 seconds.
-  path: Assets/sunnyland woods/Sprites/player/run/player-run-6.png
-  artifactKey: Guid(c7a57623349a146bfbb36296b137ee86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Sprites/player/run/player-run-6.png using Guid(c7a57623349a146bfbb36296b137ee86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db25053fd38a19bcbe01789b4b089ca9') in 0.015402 seconds
-  Import took 0.019186 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 11.515171 seconds.
-  path: Assets/sunnyland woods/Sprites/player/run/player-run-6.png
-  artifactKey: Guid(c7a57623349a146bfbb36296b137ee86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Sprites/player/run/player-run-6.png using Guid(c7a57623349a146bfbb36296b137ee86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db052ba9bf94c26182fa301a88e02850') in 0.015000 seconds
-  Import took 0.019196 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001140 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.71 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.999 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.8 MB.
-System memory in use after: 87.8 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2309.
-Total: 2.526900 ms (FindLiveObjects: 0.274400 ms CreateObjectMapping: 0.146700 ms MarkObjects: 1.958600 ms  DeleteObjects: 0.145700 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000908 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.932 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.8 MB.
-System memory in use after: 87.8 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2313.
-Total: 2.371900 ms (FindLiveObjects: 0.213800 ms CreateObjectMapping: 0.082400 ms MarkObjects: 1.942700 ms  DeleteObjects: 0.131600 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 143.210959 seconds.
-  path: ProjectSettings/TagManager.asset
-  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49543e4dbd7cd23a453b8e2b931c24b5') in 0.022081 seconds
-  Import took 0.026812 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000915 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.50 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.899 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.8 MB.
-System memory in use after: 87.8 MB.
-
-Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2317.
-Total: 2.295300 ms (FindLiveObjects: 0.187000 ms CreateObjectMapping: 0.073100 ms MarkObjects: 1.910900 ms  DeleteObjects: 0.122400 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000946 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
@@ -599,173 +128,19 @@ RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
 - Completed reload, in  1.008 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.8 MB.
-System memory in use after: 87.8 MB.
+System memory in use before: 84.7 MB.
+System memory in use after: 84.7 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2321.
-Total: 2.843000 ms (FindLiveObjects: 0.205100 ms CreateObjectMapping: 0.074400 ms MarkObjects: 2.399200 ms  DeleteObjects: 0.162900 ms)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2257.
+Total: 2.345800 ms (FindLiveObjects: 0.279600 ms CreateObjectMapping: 0.165400 ms MarkObjects: 1.772600 ms  DeleteObjects: 0.127200 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.000859 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.134 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.8 MB.
-System memory in use after: 87.8 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2325.
-Total: 2.605300 ms (FindLiveObjects: 0.294100 ms CreateObjectMapping: 0.174300 ms MarkObjects: 2.011200 ms  DeleteObjects: 0.124500 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001311 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.64 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.094 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.9 MB.
-System memory in use after: 87.9 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2329.
-Total: 2.183600 ms (FindLiveObjects: 0.197900 ms CreateObjectMapping: 0.073600 ms MarkObjects: 1.798400 ms  DeleteObjects: 0.112800 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001109 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.15 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  2.161 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.9 MB.
-System memory in use after: 87.9 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2333.
-Total: 4.184900 ms (FindLiveObjects: 0.322500 ms CreateObjectMapping: 0.164600 ms MarkObjects: 3.425900 ms  DeleteObjects: 0.269600 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002181 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.472 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.42 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.9 MB.
-System memory in use after: 87.9 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2337.
-Total: 6.137800 ms (FindLiveObjects: 0.377300 ms CreateObjectMapping: 0.292500 ms MarkObjects: 5.096400 ms  DeleteObjects: 0.369000 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 315.231395 seconds.
-  path: Assets/sunnyland woods/Player/PlayerW.cs
-  artifactKey: Guid(380acd8dd23571d41881845379532f71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Player/PlayerW.cs using Guid(380acd8dd23571d41881845379532f71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb039487c1e9cddc597936bc3ac016ff') in 0.011297 seconds
-  Import took 0.016578 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001694 seconds.
-  path: Assets/sunnyland woods/Player/PlayerW.cs
-  artifactKey: Guid(380acd8dd23571d41881845379532f71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Player/PlayerW.cs using Guid(380acd8dd23571d41881845379532f71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb039487c1e9cddc597936bc3ac016ff') in 0.005463 seconds
-  Import took 0.010334 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001079 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.919 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.9 MB.
-System memory in use after: 87.9 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2341.
-Total: 3.067100 ms (FindLiveObjects: 0.238800 ms CreateObjectMapping: 0.073000 ms MarkObjects: 2.623100 ms  DeleteObjects: 0.131000 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001075 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.999 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.9 MB.
-System memory in use after: 87.9 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2345.
-Total: 2.600300 ms (FindLiveObjects: 0.472300 ms CreateObjectMapping: 0.205100 ms MarkObjects: 1.804000 ms  DeleteObjects: 0.117700 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000952 seconds.
+Registered in 0.001450 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.38 ms, found 1 plugins.
@@ -774,182 +149,67 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.968 seconds
+- Completed reload, in  1.010 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.9 MB.
-System memory in use after: 87.9 MB.
+System memory in use before: 84.7 MB.
+System memory in use after: 84.7 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2349.
-Total: 2.052200 ms (FindLiveObjects: 0.181400 ms CreateObjectMapping: 0.065900 ms MarkObjects: 1.694000 ms  DeleteObjects: 0.110200 ms)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2261.
+Total: 3.058900 ms (FindLiveObjects: 0.196200 ms CreateObjectMapping: 0.069900 ms MarkObjects: 2.640800 ms  DeleteObjects: 0.151000 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001040 seconds.
+Registered in 0.001152 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.259 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.66 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.9 MB.
-System memory in use after: 87.9 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2353.
-Total: 2.853500 ms (FindLiveObjects: 0.285100 ms CreateObjectMapping: 0.124800 ms MarkObjects: 2.266400 ms  DeleteObjects: 0.175900 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000927 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.236 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.9 MB.
-System memory in use after: 87.9 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2357.
-Total: 2.442000 ms (FindLiveObjects: 0.179400 ms CreateObjectMapping: 0.077200 ms MarkObjects: 2.072300 ms  DeleteObjects: 0.111900 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000960 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.946 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 87.9 MB.
-System memory in use after: 87.9 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2361.
-Total: 2.092300 ms (FindLiveObjects: 0.182300 ms CreateObjectMapping: 0.076500 ms MarkObjects: 1.718100 ms  DeleteObjects: 0.114500 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000933 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.956 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.0 MB.
-System memory in use after: 87.9 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2365.
-Total: 2.940300 ms (FindLiveObjects: 0.187200 ms CreateObjectMapping: 0.074200 ms MarkObjects: 2.525900 ms  DeleteObjects: 0.151800 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000910 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.949 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.0 MB.
-System memory in use after: 88.0 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2369.
-Total: 2.977000 ms (FindLiveObjects: 0.195500 ms CreateObjectMapping: 0.077200 ms MarkObjects: 2.550800 ms  DeleteObjects: 0.152300 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000982 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.930 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.84 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.0 MB.
-System memory in use after: 88.0 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2373.
-Total: 2.737100 ms (FindLiveObjects: 0.283000 ms CreateObjectMapping: 0.059300 ms MarkObjects: 2.244000 ms  DeleteObjects: 0.149500 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000991 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.59 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.931 seconds
-Platform modules already initialized, skipping
 Refreshing native plugins compatible for Editor in 0.62 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.994 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.0 MB.
-System memory in use after: 88.0 MB.
+System memory in use before: 84.7 MB.
+System memory in use after: 84.7 MB.
 
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2377.
-Total: 3.467900 ms (FindLiveObjects: 0.312800 ms CreateObjectMapping: 0.119400 ms MarkObjects: 2.829400 ms  DeleteObjects: 0.204200 ms)
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2265.
+Total: 2.059000 ms (FindLiveObjects: 0.192500 ms CreateObjectMapping: 0.076100 ms MarkObjects: 1.681400 ms  DeleteObjects: 0.108300 ms)
 
 ========================================================================
 Received Prepare
 Registering precompiled user dll's ...
-Registered in 0.001112 seconds.
+Registered in 0.000951 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.72 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.924 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.44 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.7 MB.
+System memory in use after: 84.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2269.
+Total: 2.820300 ms (FindLiveObjects: 0.179300 ms CreateObjectMapping: 0.066000 ms MarkObjects: 2.469500 ms  DeleteObjects: 0.104600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001155 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.39 ms, found 1 plugins.
@@ -958,785 +218,15 @@ Invoked RoslynAnalysisRunner static constructor.
 RoslynAnalysisRunner will not be running.
 RoslynAnalysisRunner has terminated.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.974 seconds
+- Completed reload, in  0.887 seconds
 Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.0 MB.
-System memory in use after: 88.0 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2381.
-Total: 2.240700 ms (FindLiveObjects: 0.213600 ms CreateObjectMapping: 0.077700 ms MarkObjects: 1.835700 ms  DeleteObjects: 0.112500 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000939 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.965 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.0 MB.
-System memory in use after: 88.0 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2385.
-Total: 3.247100 ms (FindLiveObjects: 0.260400 ms CreateObjectMapping: 0.114100 ms MarkObjects: 2.699000 ms  DeleteObjects: 0.172100 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000919 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
 Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.839 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.0 MB.
-System memory in use after: 88.0 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2389.
-Total: 2.153700 ms (FindLiveObjects: 0.234800 ms CreateObjectMapping: 0.075200 ms MarkObjects: 1.731900 ms  DeleteObjects: 0.110900 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 984.124283 seconds.
-  path: Assets/Scenes
-  artifactKey: Guid(1907a4411c50c044d9df70b6ec2f80cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes using Guid(1907a4411c50c044d9df70b6ec2f80cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b71753d89623172f2e2c00ae50844de1') in 0.018745 seconds
-  Import took 0.022627 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001048 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.861 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.0 MB.
-System memory in use after: 88.0 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2393.
-Total: 2.720600 ms (FindLiveObjects: 0.194300 ms CreateObjectMapping: 0.077800 ms MarkObjects: 2.303500 ms  DeleteObjects: 0.143800 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 33.021875 seconds.
-  path: Assets/sunnyland woods/Sprites/player/run/player-run-6.png
-  artifactKey: Guid(c7a57623349a146bfbb36296b137ee86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Sprites/player/run/player-run-6.png using Guid(c7a57623349a146bfbb36296b137ee86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '310b82f1f5c3d1c5bfa770208be7dbe7') in 0.063553 seconds
-  Import took 0.067512 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.000933 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.835 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.0 MB.
-System memory in use after: 88.0 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2398.
-Total: 3.088200 ms (FindLiveObjects: 0.229500 ms CreateObjectMapping: 0.071900 ms MarkObjects: 2.606900 ms  DeleteObjects: 0.178300 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.002476 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.35 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.849 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.0 MB.
-System memory in use after: 88.0 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2402.
-Total: 2.099300 ms (FindLiveObjects: 0.163500 ms CreateObjectMapping: 0.060400 ms MarkObjects: 1.764700 ms  DeleteObjects: 0.109800 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001352 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Invoked RoslynAnalysisRunner static constructor.
-RoslynAnalysisRunner will not be running.
-RoslynAnalysisRunner has terminated.
-Mono: successfully reloaded assembly
-- Completed reload, in  0.868 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1802 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 88.0 MB.
-System memory in use after: 88.0 MB.
-
-Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2406.
-Total: 2.502000 ms (FindLiveObjects: 0.215400 ms CreateObjectMapping: 0.083200 ms MarkObjects: 2.077600 ms  DeleteObjects: 0.124800 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 647.574896 seconds.
-  path: Assets/sunnyland woods/Environment
-  artifactKey: Guid(c83e3ec70656843878c293d5bac2dc63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment using Guid(c83e3ec70656843878c293d5bac2dc63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17587c92552e80076960f0c066f0c191') in 0.014905 seconds
-  Import took 0.027296 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.072393 seconds.
-  path: Assets/sunnyland woods/Environment/bg-clouds.png
-  artifactKey: Guid(fb85ac9b37ba441f595e87addbf59d4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/bg-clouds.png using Guid(fb85ac9b37ba441f595e87addbf59d4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a160876a9c5e1780cd592255888a5ce') in 0.096265 seconds
-  Import took 0.101666 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000272 seconds.
-  path: Assets/sunnyland woods/Environment/bg-trees_2.asset
-  artifactKey: Guid(7d20aa49ab63ab5469819224bc5b2884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/bg-trees_2.asset using Guid(7d20aa49ab63ab5469819224bc5b2884) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '202cfc00b213aea7238fa53f7b042dd8') in 0.015888 seconds
-  Import took 0.020067 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000185 seconds.
-  path: Assets/sunnyland woods/Environment/bg-clouds_3.asset
-  artifactKey: Guid(e50bd04b92d108b47beeb2bf686243ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/bg-clouds_3.asset using Guid(e50bd04b92d108b47beeb2bf686243ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08f5c9d91f0696c3ff2ce6b30c2b6a49') in 0.036244 seconds
-  Import took 0.040137 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000225 seconds.
-  path: Assets/sunnyland woods/Environment/bg-clouds_2.asset
-  artifactKey: Guid(5d6cc01d957955f429cc4192a6b59275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/bg-clouds_2.asset using Guid(5d6cc01d957955f429cc4192a6b59275) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acc49e9efb2e6a390c29148e4e2c4c0a') in 0.023682 seconds
-  Import took 0.029179 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000198 seconds.
-  path: Assets/sunnyland woods/Environment/bg-clouds_1.asset
-  artifactKey: Guid(725ee0703b6636c498987ee2502383f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/bg-clouds_1.asset using Guid(725ee0703b6636c498987ee2502383f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecd8d3c67b558e20e36953dd134bde5b') in 0.023439 seconds
-  Import took 0.027091 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000201 seconds.
-  path: Assets/sunnyland woods/Environment/bg-mountains_0.asset
-  artifactKey: Guid(8581574cd3d2de341b04ebaaee329e04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/bg-mountains_0.asset using Guid(8581574cd3d2de341b04ebaaee329e04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa01843f016bdbea14fe20bdce51ef6f') in 0.036961 seconds
-  Import took 0.040057 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000242 seconds.
-  path: Assets/sunnyland woods/Environment/bg-trees.png
-  artifactKey: Guid(5fd9fcf9b037543179fd139164f4b877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/bg-trees.png using Guid(5fd9fcf9b037543179fd139164f4b877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9c6714a191576b60723e88362f0a43a') in 0.025720 seconds
-  Import took 0.029451 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000262 seconds.
-  path: Assets/sunnyland woods/Environment/bg-clouds_0.asset
-  artifactKey: Guid(dc55058c99255b74ba5191904f04770a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/bg-clouds_0.asset using Guid(dc55058c99255b74ba5191904f04770a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c858b9e9374c37990216fa456683e92') in 0.022289 seconds
-  Import took 0.026669 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000322 seconds.
-  path: Assets/sunnyland woods/Environment/bg-trees_6.asset
-  artifactKey: Guid(2bd1e724f4e7e7f45b39faf9be2d28d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/bg-trees_6.asset using Guid(2bd1e724f4e7e7f45b39faf9be2d28d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fbac08fceec57cf7ef7a08d959d688f') in 0.009166 seconds
-  Import took 0.012682 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000328 seconds.
-  path: Assets/sunnyland woods/Environment/bg-trees_8.asset
-  artifactKey: Guid(d011f81183cb38349ab29afe9f2ef1c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/bg-trees_8.asset using Guid(d011f81183cb38349ab29afe9f2ef1c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5120a77a20a92bd4e1d965afbe3e16dd') in 0.010274 seconds
-  Import took 0.014783 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000191 seconds.
-  path: Assets/sunnyland woods/Environment/bg-trees_0.asset
-  artifactKey: Guid(3774f14034cf0b24196ea70becbdae81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/bg-trees_0.asset using Guid(3774f14034cf0b24196ea70becbdae81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b61bed20e079af8062da9f3b4742ebc') in 0.024019 seconds
-  Import took 0.028424 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000227 seconds.
-  path: Assets/sunnyland woods/Environment/bg-trees_4.asset
-  artifactKey: Guid(3968804059427214d9105637849241b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/bg-trees_4.asset using Guid(3968804059427214d9105637849241b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcca790df361c4dda930fd3830077e6e') in 0.010933 seconds
-  Import took 0.014438 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000277 seconds.
-  path: Assets/sunnyland woods/Environment/bg-trees_3.asset
-  artifactKey: Guid(2012ab8f1e90bfd438bcf94de4ebadf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/bg-trees_3.asset using Guid(2012ab8f1e90bfd438bcf94de4ebadf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b78bfa608e0c884b68fe7ca826fb20fb') in 0.010665 seconds
-  Import took 0.014234 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000347 seconds.
-  path: Assets/sunnyland woods/Environment/bg-trees_5.asset
-  artifactKey: Guid(665f0f1aefabb214ba28a2f32ea1f115) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/bg-trees_5.asset using Guid(665f0f1aefabb214ba28a2f32ea1f115) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6c2211b0d7f830585ba81cb0df6e7b9') in 0.011277 seconds
-  Import took 0.014645 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000247 seconds.
-  path: Assets/sunnyland woods/Environment/bg-trees_9.asset
-  artifactKey: Guid(94cae30d0c4207143b32731c2b988c2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/bg-trees_9.asset using Guid(94cae30d0c4207143b32731c2b988c2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7e52266ce029db47859f09e052a0e96') in 0.010789 seconds
-  Import took 0.015287 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000228 seconds.
-  path: Assets/sunnyland woods/Environment/bg-clouds_5.asset
-  artifactKey: Guid(4ea7e1bbe55a6e144b9fc4576892e871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/bg-clouds_5.asset using Guid(4ea7e1bbe55a6e144b9fc4576892e871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '496ea049a2ccbafdf2040a38b4423c52') in 0.019898 seconds
-  Import took 0.023326 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000199 seconds.
-  path: Assets/sunnyland woods/Environment/bg-mountains.png
-  artifactKey: Guid(f78264359f1ff47aeaf7e7f761e4179a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/bg-mountains.png using Guid(f78264359f1ff47aeaf7e7f761e4179a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9edf336ff946500684a3bec98a07e92f') in 0.029854 seconds
-  Import took 0.034048 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000343 seconds.
-  path: Assets/sunnyland woods/Environment/bg-trees_1.asset
-  artifactKey: Guid(43fe678a9a82f1e4cadf4f9c06fb87cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/bg-trees_1.asset using Guid(43fe678a9a82f1e4cadf4f9c06fb87cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5d878d6bf322a5324f361f78600b8e4') in 0.011277 seconds
-  Import took 0.015027 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000235 seconds.
-  path: Assets/sunnyland woods/Environment/bg-trees_7.asset
-  artifactKey: Guid(d39c3091cfae9c941abd80cb750ab415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/bg-trees_7.asset using Guid(d39c3091cfae9c941abd80cb750ab415) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e913d40aadc3280857bfba086db5921') in 0.030829 seconds
-  Import took 0.034545 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000239 seconds.
-  path: Assets/sunnyland woods/Environment/bg-clouds_4.asset
-  artifactKey: Guid(b58707567b8297543b983613c31c1871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/bg-clouds_4.asset using Guid(b58707567b8297543b983613c31c1871) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27ac789774723bb6e583db32ff354216') in 0.023775 seconds
-  Import took 0.028959 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.742775 seconds.
-  path: Assets/sunnyland woods/Environment/Forrest.prefab
-  artifactKey: Guid(9a68599cecbee0743ad5d5a66a04ddf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/Forrest.prefab using Guid(9a68599cecbee0743ad5d5a66a04ddf3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ee43be4b4c9d963554463c3d2186b74') in 0.044002 seconds
-  Import took 0.047168 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000536 seconds.
-  path: Assets/sunnyland woods/Environment/sky.prefab
-  artifactKey: Guid(18cee7e2eed67b346a5224b723e6aa46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/sky.prefab using Guid(18cee7e2eed67b346a5224b723e6aa46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5de94a287473fb44896edb6753cfbb32') in 0.012853 seconds
-  Import took 0.017736 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000447 seconds.
-  path: Assets/sunnyland woods/Environment/Mountains.prefab
-  artifactKey: Guid(29f8c90e197d5574bb570114c35a3f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/Mountains.prefab using Guid(29f8c90e197d5574bb570114c35a3f77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a6f0c646b4eb96c46ace62e4baa48b4') in 0.010249 seconds
-  Import took 0.014332 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000496 seconds.
-  path: Assets/sunnyland woods/Environment/tileset-sliced.png
-  artifactKey: Guid(9a3f72f076ab840149080d30379776b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/tileset-sliced.png using Guid(9a3f72f076ab840149080d30379776b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbff3b6f3c53d3139fa2a41914fa4d28') in 0.089725 seconds
-  Import took 0.094090 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000273 seconds.
-  path: Assets/sunnyland woods/Environment/tileset.png
-  artifactKey: Guid(af00e6efe9c134dcb8b84091c1930420) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/tileset.png using Guid(af00e6efe9c134dcb8b84091c1930420) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1177969ee0d382314003140b26edb4d4') in 0.080643 seconds
-  Import took 0.083544 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.188753 seconds.
-  path: Assets/sunnyland woods/Environment/tileset_0.asset
-  artifactKey: Guid(f7c7dfccd4adb9e40b734c081801b46f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/tileset_0.asset using Guid(f7c7dfccd4adb9e40b734c081801b46f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aeb6ba743cd3ef907c5c74d6c56d9129') in 0.026599 seconds
-  Import took 0.029622 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000200 seconds.
-  path: Assets/sunnyland woods/Environment/tileset_2.asset
-  artifactKey: Guid(ee8eb581d21dea44ca7b0bd445d762dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/tileset_2.asset using Guid(ee8eb581d21dea44ca7b0bd445d762dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f1d3444fc7b95654f7db54920e4b148') in 0.023773 seconds
-  Import took 0.026952 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000295 seconds.
-  path: Assets/sunnyland woods/Environment/tileset_6.asset
-  artifactKey: Guid(07d5064d71b48d844af81bbf81557909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/tileset_6.asset using Guid(07d5064d71b48d844af81bbf81557909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2a8350f77bfd67033e205b91b414d23') in 0.019491 seconds
-  Import took 0.022895 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000232 seconds.
-  path: Assets/sunnyland woods/Environment/tileset_8.asset
-  artifactKey: Guid(543fac5022399b64db1f727b69a74e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/tileset_8.asset using Guid(543fac5022399b64db1f727b69a74e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '018e1a3c5f46c4807fa6af5d59882d3b') in 0.023047 seconds
-  Import took 0.028047 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000379 seconds.
-  path: Assets/sunnyland woods/Environment/tileset_9.asset
-  artifactKey: Guid(0619aff6db8b67849b57749b4c659a6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/tileset_9.asset using Guid(0619aff6db8b67849b57749b4c659a6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19a275feab77b31e5f4e2688979dd666') in 0.029318 seconds
-  Import took 0.033322 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000249 seconds.
-  path: Assets/sunnyland woods/Environment/tileset_13.asset
-  artifactKey: Guid(d31d03fe6b45d954092202621d8b7a4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/tileset_13.asset using Guid(d31d03fe6b45d954092202621d8b7a4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2242ba9402add76cbbb2f0d1fa8e30cd') in 0.024454 seconds
-  Import took 0.027868 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000254 seconds.
-  path: Assets/sunnyland woods/Environment/tileset_12.asset
-  artifactKey: Guid(6b91f841cd14ca94f9bedbf662020df3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/tileset_12.asset using Guid(6b91f841cd14ca94f9bedbf662020df3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b4bd1ad7b49f2bcdda34b16a67eaa6c') in 0.022834 seconds
-  Import took 0.026258 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000194 seconds.
-  path: Assets/sunnyland woods/Environment/tileset_4.asset
-  artifactKey: Guid(9b7d899a45f03dd499806a30b5802ce7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/tileset_4.asset using Guid(9b7d899a45f03dd499806a30b5802ce7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a20e4e33275408a18bf72617bc2e598d') in 0.020880 seconds
-  Import took 0.025753 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000299 seconds.
-  path: Assets/sunnyland woods/Environment/tileset_7.asset
-  artifactKey: Guid(617a9c8f6d015ba49823a4adec7b05d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/tileset_7.asset using Guid(617a9c8f6d015ba49823a4adec7b05d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '355385a8183a2dba949962e71aa341ec') in 0.033000 seconds
-  Import took 0.036906 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000234 seconds.
-  path: Assets/sunnyland woods/Environment/tileset_3.asset
-  artifactKey: Guid(3c809d91c414b864c8388df8dd099660) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/tileset_3.asset using Guid(3c809d91c414b864c8388df8dd099660) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54ce0edc5b72823166d50ddf391fa896') in 0.026667 seconds
-  Import took 0.029679 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000220 seconds.
-  path: Assets/sunnyland woods/Environment/tileset_14.asset
-  artifactKey: Guid(47d724b41762b0547ab5b66d02f699b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/tileset_14.asset using Guid(47d724b41762b0547ab5b66d02f699b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57156ef1b6649a8853bac5bee0dbf05f') in 0.020361 seconds
-  Import took 0.023685 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000284 seconds.
-  path: Assets/sunnyland woods/Environment/tileset_10.asset
-  artifactKey: Guid(a422922e5d6559d49b9d3a5b682420e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/tileset_10.asset using Guid(a422922e5d6559d49b9d3a5b682420e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '424b78de90f900ba25383a6d551404e8') in 0.021860 seconds
-  Import took 0.026680 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000251 seconds.
-  path: Assets/sunnyland woods/Environment/tileset_1.asset
-  artifactKey: Guid(b4b93722128d71d4b97eb964487994f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/tileset_1.asset using Guid(b4b93722128d71d4b97eb964487994f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9fa5bb3f4b027823f9014e04fef8885') in 0.025427 seconds
-  Import took 0.029057 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000233 seconds.
-  path: Assets/sunnyland woods/Environment/tileset_5.asset
-  artifactKey: Guid(6d4dc9240c08d6544a437adb3ca8e82b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/tileset_5.asset using Guid(6d4dc9240c08d6544a437adb3ca8e82b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0660de8feda038729490ee7e1933841') in 0.021438 seconds
-  Import took 0.024936 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000352 seconds.
-  path: Assets/sunnyland woods/Environment/tileset_11.asset
-  artifactKey: Guid(869bfceffe5c8934fb00f4590cf590bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/tileset_11.asset using Guid(869bfceffe5c8934fb00f4590cf590bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '220244dbe9f76951812d9eb45614ef41') in 0.024276 seconds
-  Import took 0.028116 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.043544 seconds.
-  path: Assets/sunnyland woods/Environment/tileset_15.asset
-  artifactKey: Guid(ffe70e92d72be764facfeed64fb86a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/tileset_15.asset using Guid(ffe70e92d72be764facfeed64fb86a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8422d4a664d09a10d08ed7006a80ff19') in 0.040795 seconds
-  Import took 0.047864 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000058 seconds.
-  path: Assets/sunnyland woods/Environment/tileset_16.asset
-  artifactKey: Guid(0820106a9854ade4bbf50784a60295d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/tileset_16.asset using Guid(0820106a9854ade4bbf50784a60295d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d084270f7ad851a2315905800d52329') in 0.054824 seconds
-  Import took 0.058723 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000196 seconds.
-  path: Assets/sunnyland woods/Environment/tileset_17.asset
-  artifactKey: Guid(a6e41d2a718857a4bb313cf0388eca53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/tileset_17.asset using Guid(a6e41d2a718857a4bb313cf0388eca53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ac3cd1a1801cbb6bbe8ad9e8239b1b1') in 0.026122 seconds
-  Import took 0.029739 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000189 seconds.
-  path: Assets/sunnyland woods/Environment/tileset_18.asset
-  artifactKey: Guid(fc0fd7baecf58f545a1135d7d62e9bb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/tileset_18.asset using Guid(fc0fd7baecf58f545a1135d7d62e9bb3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c01953a03eaec0f4ea41a0c15c9c237') in 0.025008 seconds
-  Import took 0.030255 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000288 seconds.
-  path: Assets/sunnyland woods/Environment/tileset_19.asset
-  artifactKey: Guid(c722deb43fdfd814f81b8a363a565c06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/tileset_19.asset using Guid(c722deb43fdfd814f81b8a363a565c06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1aef53dc98112e09d5a066c14990335d') in 0.027415 seconds
-  Import took 0.031598 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.940471 seconds.
-  path: Assets/sunnyland woods/Environment/tileset_20.asset
-  artifactKey: Guid(a1ca94eea6291014caf618504b2ad4dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/tileset_20.asset using Guid(a1ca94eea6291014caf618504b2ad4dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c87fa802856fe87a38cab1526565e5f8') in 0.038726 seconds
-  Import took 0.043557 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000171 seconds.
-  path: Assets/sunnyland woods/Environment/tileset_24.asset
-  artifactKey: Guid(811a44f3c33143b4ab662b583b481822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/tileset_24.asset using Guid(811a44f3c33143b4ab662b583b481822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1887bb6251af40eed4785ee81012cb6a') in 0.019261 seconds
-  Import took 0.022603 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000186 seconds.
-  path: Assets/sunnyland woods/Environment/Tree1.prefab
-  artifactKey: Guid(6a5bd4e29ec3fc54989f7c9ab8401640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/Tree1.prefab using Guid(6a5bd4e29ec3fc54989f7c9ab8401640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '033352bf0380f08c361a10a32b436e86') in 0.013515 seconds
-  Import took 0.018524 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000184 seconds.
-  path: Assets/sunnyland woods/Environment/tileset_27.asset
-  artifactKey: Guid(e1ac4e2cd30a0d84ca7d2eb9344436ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/tileset_27.asset using Guid(e1ac4e2cd30a0d84ca7d2eb9344436ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '403fcf529e7dae9e9d4d1f1de72c9b9b') in 0.024382 seconds
-  Import took 0.028606 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000159 seconds.
-  path: Assets/sunnyland woods/Environment/tileset_26.asset
-  artifactKey: Guid(da574049e6af4584db9e5f101b64101d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/tileset_26.asset using Guid(da574049e6af4584db9e5f101b64101d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bef2181979ecec402840977298559b79') in 0.027298 seconds
-  Import took 0.031297 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000316 seconds.
-  path: Assets/sunnyland woods/Environment/tileset_25.asset
-  artifactKey: Guid(41e126f10df070a4d85ee979e42d4d64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/tileset_25.asset using Guid(41e126f10df070a4d85ee979e42d4d64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcaa2272a5343cf9f5cf54d22503bff8') in 0.027971 seconds
-  Import took 0.031958 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000163 seconds.
-  path: Assets/sunnyland woods/Environment/tileset_22.asset
-  artifactKey: Guid(b677f074934449844b70cdb7e972f90c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/tileset_22.asset using Guid(b677f074934449844b70cdb7e972f90c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82c9d38ba97b47375cf679768da048db') in 0.021835 seconds
-  Import took 0.025320 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000361 seconds.
-  path: Assets/sunnyland woods/Environment/tileset_23.asset
-  artifactKey: Guid(1ec833867185eb74aa1a7358f540802c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/tileset_23.asset using Guid(1ec833867185eb74aa1a7358f540802c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52583f51a8928eb70d290af4f470f54e') in 0.023527 seconds
-  Import took 0.027550 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000143 seconds.
-  path: Assets/sunnyland woods/Environment/tileset_21.asset
-  artifactKey: Guid(3757e2e51f1bd104b89bb357465b4172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Environment/tileset_21.asset using Guid(3757e2e51f1bd104b89bb357465b4172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbf7c686bfc07ef0d71507e2deac6d4f') in 0.023927 seconds
-  Import took 0.026842 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.956101 seconds.
-  path: Assets/sunnyland woods/Scenes
-  artifactKey: Guid(7cdd06469f8d14b50b87c93e57615a86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Scenes using Guid(7cdd06469f8d14b50b87c93e57615a86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc0de3ea33f04705cbac69fbc45ffe8e') in 0.010071 seconds
-  Import took 0.013182 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.507847 seconds.
-  path: Assets/sunnyland woods/Sprites/misc
-  artifactKey: Guid(7a6d4a2471b164df2a51823a95cf6322) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Sprites/misc using Guid(7a6d4a2471b164df2a51823a95cf6322) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '670073dfc571ab15fc4759cb8b12aef3') in 0.011058 seconds
-  Import took 0.014506 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 1.579625 seconds.
-  path: Assets/sunnyland woods/Sprites/misc/acorn
-  artifactKey: Guid(a72cf46cde7fe4799be8ad086ef85ffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Sprites/misc/acorn using Guid(a72cf46cde7fe4799be8ad086ef85ffd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73a4443adfccc53b8e956be8e523f4ff') in 0.009695 seconds
-  Import took 0.013248 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.082034 seconds.
-  path: Assets/sunnyland woods/Sprites/misc/acorn/acorn-1.png
-  artifactKey: Guid(b6bd832411f65410381d33458375068a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Sprites/misc/acorn/acorn-1.png using Guid(b6bd832411f65410381d33458375068a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc5a2ee65a006a8325ef4e9a04ae7eb4') in 0.032749 seconds
-  Import took 0.036195 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000349 seconds.
-  path: Assets/sunnyland woods/Sprites/misc/acorn/acorn-3.png
-  artifactKey: Guid(d19cd1636092d45cd9581f0bd094cf9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Sprites/misc/acorn/acorn-3.png using Guid(d19cd1636092d45cd9581f0bd094cf9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98b146cd06070e952130d882038e4f97') in 0.028813 seconds
-  Import took 0.032602 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000689 seconds.
-  path: Assets/sunnyland woods/Sprites/misc/acorn/acorn-2.png
-  artifactKey: Guid(04750fd00d8744105871eda35fd42569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Sprites/misc/acorn/acorn-2.png using Guid(04750fd00d8744105871eda35fd42569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f55e9c147326cb770abef6378b2360d') in 0.034033 seconds
-  Import took 0.037410 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 61.661097 seconds.
-  path: Assets/sunnyland woods/Sprites/misc/enemy-death
-  artifactKey: Guid(cea67397e09634644b1908ef4291fdc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Sprites/misc/enemy-death using Guid(cea67397e09634644b1908ef4291fdc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6683c6fd0f9c1f89349d2216a8e81f98') in 0.011069 seconds
-  Import took 0.014016 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.191266 seconds.
-  path: Assets/sunnyland woods/Sprites/misc/enemy-death/enemy-death-1.png
-  artifactKey: Guid(5d246f377945447498943b46dfea401c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Sprites/misc/enemy-death/enemy-death-1.png using Guid(5d246f377945447498943b46dfea401c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e80a67a3ef4cf7642235e96c5ba58b4') in 0.045125 seconds
-  Import took 0.048656 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000287 seconds.
-  path: Assets/sunnyland woods/Sprites/misc/enemy-death/enemy-death-3.png
-  artifactKey: Guid(a41bbce997d9243ebb3ef0c07504b795) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Sprites/misc/enemy-death/enemy-death-3.png using Guid(a41bbce997d9243ebb3ef0c07504b795) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f59ffbac37ec6f37692a0dcf699f35b') in 0.028121 seconds
-  Import took 0.031243 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000263 seconds.
-  path: Assets/sunnyland woods/Sprites/misc/enemy-death/enemy-death-2.png
-  artifactKey: Guid(eb8c9f98b49ea4b57bd3dabdafb0149a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Sprites/misc/enemy-death/enemy-death-2.png using Guid(eb8c9f98b49ea4b57bd3dabdafb0149a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2a9402a113fc315e3ab207fadf34e15') in 0.032063 seconds
-  Import took 0.034834 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000257 seconds.
-  path: Assets/sunnyland woods/Sprites/misc/enemy-death/enemy-death-4.png
-  artifactKey: Guid(acf79d40a0e30459d86fac47248090ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Sprites/misc/enemy-death/enemy-death-4.png using Guid(acf79d40a0e30459d86fac47248090ba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87f576c59b75c717e804d18a614879a2') in 0.032579 seconds
-  Import took 0.035675 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 470.088256 seconds.
-  path: Assets/sunnyland woods/Sprites/misc/acorn/acorn-2.png
-  artifactKey: Guid(04750fd00d8744105871eda35fd42569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Sprites/misc/acorn/acorn-2.png using Guid(04750fd00d8744105871eda35fd42569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17e27fac78afccf3bc30fc746d5e8095') in 0.014684 seconds
-  Import took 0.018551 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 51.676556 seconds.
-  path: Assets/sunnyland woods/Sprites/misc/acorn/acorn-2.png
-  artifactKey: Guid(04750fd00d8744105871eda35fd42569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Sprites/misc/acorn/acorn-2.png using Guid(04750fd00d8744105871eda35fd42569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6950788e77bb11aa97f18929cfc447b0') in 0.013380 seconds
-  Import took 0.017830 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.003298 seconds.
-  path: Assets/sunnyland woods/Sprites/misc/acorn/acorn-2.png
-  artifactKey: Guid(04750fd00d8744105871eda35fd42569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Sprites/misc/acorn/acorn-2.png using Guid(04750fd00d8744105871eda35fd42569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6950788e77bb11aa97f18929cfc447b0') in 0.011599 seconds
-  Import took 0.015412 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 24.280709 seconds.
-  path: ProjectSettings/TagManager.asset
-  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bae9c11bec56cd8eb5e1d059a288dfd0') in 0.004000 seconds
-  Import took 0.007430 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.004133 seconds.
-  path: ProjectSettings/TagManager.asset
-  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bae9c11bec56cd8eb5e1d059a288dfd0') in 0.003807 seconds
-  Import took 0.007056 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 43.873102 seconds.
-  path: Assets/sunnyland woods/Sprites/misc/acorn/acorn-2.png
-  artifactKey: Guid(04750fd00d8744105871eda35fd42569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Sprites/misc/acorn/acorn-2.png using Guid(04750fd00d8744105871eda35fd42569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '317a705c5c91d41303475c2d64e70010') in 0.013277 seconds
-  Import took 0.017522 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 99.048442 seconds.
-  path: Assets/sunnyland woods/Sprites/misc/acorn/acorn-2.png
-  artifactKey: Guid(04750fd00d8744105871eda35fd42569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Sprites/misc/acorn/acorn-2.png using Guid(04750fd00d8744105871eda35fd42569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59dd1f49f30ea1727bc131cbb7542566') in 0.055382 seconds
-  Import took 0.068533 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.670988 seconds.
-  path: Assets/sunnyland woods/Sprites/misc/acorn/acorn-2.png
-  artifactKey: Guid(04750fd00d8744105871eda35fd42569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Sprites/misc/acorn/acorn-2.png using Guid(04750fd00d8744105871eda35fd42569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b2ae5df9c05e9a911cf37d9efab5870') in 0.015588 seconds
-  Import took 0.019604 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.002280 seconds.
-  path: Assets/sunnyland woods/Sprites/misc/acorn/acorn-2.png
-  artifactKey: Guid(04750fd00d8744105871eda35fd42569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Sprites/misc/acorn/acorn-2.png using Guid(04750fd00d8744105871eda35fd42569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b2ae5df9c05e9a911cf37d9efab5870') in 0.018252 seconds
-  Import took 0.022467 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.318928 seconds.
-  path: Assets/sunnyland woods/Sprites/misc/acorn/acorn-2.png
-  artifactKey: Guid(04750fd00d8744105871eda35fd42569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Sprites/misc/acorn/acorn-2.png using Guid(04750fd00d8744105871eda35fd42569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b939a66970fc65eed7f0db3976afb474') in 0.010748 seconds
-  Import took 0.014115 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.005273 seconds.
-  path: Assets/sunnyland woods/Sprites/misc/acorn/acorn-2.png
-  artifactKey: Guid(04750fd00d8744105871eda35fd42569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/sunnyland woods/Sprites/misc/acorn/acorn-2.png using Guid(04750fd00d8744105871eda35fd42569) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b939a66970fc65eed7f0db3976afb474') in 0.016002 seconds
-  Import took 0.019305 seconds .
+System memory in use before: 84.7 MB.
+System memory in use after: 84.7 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2273.
+Total: 2.552800 ms (FindLiveObjects: 0.346100 ms CreateObjectMapping: 0.187800 ms MarkObjects: 1.863800 ms  DeleteObjects: 0.153700 ms)
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file
